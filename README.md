@@ -1,5 +1,4 @@
-# JOB PORTAL WEB-BASED APPLICATION
-# USING PYTHON AND DJANGO
+# JOB PORTAL WEB-BASED APPLICATION USING PYTHON AND DJANGO
 
 Abstract
 In today’s competitive job market, online recruitment systems play an important role in connecting employers and job
@@ -69,14 +68,3 @@ The Job Portal Web-Based Application successfully automates the recruitment proc
 efficient platform for job management. The Admin and HR login modules ensure role-based access control and
 system security. This project demonstrates practical implementation of web technologies using Django and is suitable
 for diploma-level academic requirements.
-11. References
-[1] Ian Sommerville, Software Engineering, 10th Edition, Pearson Education, 2016.
-[2] M. Fowler, Patterns of Enterprise Application Architecture, Addison-Wesley, 2003.
-[3] Django Software Foundation, Django Documentation, https://docs.djangoproject.com/
-[4] W3Schools, HTML, CSS and JavaScript Tutorials, https://www.w3schools.com/
-[5] Silberschatz, Korth, Sudarshan, Database System Concepts, McGraw-Hill, 2019.
-[6] A. Pressman, Software Engineering: A Practitioner’s Approach, McGraw-Hill, 2014.
-[7] MDN Web Docs, Web Development Resources, https://developer.mozilla.org/
-[8] Bootstrap Documentation, https://getbootstrap.com/docs/
-[9] Oracle, MySQL Database Documentation, https://dev.mysql.com/doc/
-[10] Python Software Foundation, Python Documentation, https://docs.python.
